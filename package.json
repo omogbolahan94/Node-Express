@@ -1,0 +1,17 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "Using Express To Serve Static HTML File",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Olatunji Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
